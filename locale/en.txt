@@ -18,4 +18,4 @@ IconButton_9162DC57_BC8F_C616_41C5_0DD9D2CCEADD_mobile.toolTip = Fullscreen
 ### Description
 
 ### Title
-tour.name = Untitled 7
+tour.name = Kyyjärvi camping mökki
